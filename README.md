@@ -106,7 +106,7 @@ L'application s'ouvre à l'adresse `http://localhost:8501`.
    - **📊 Suivi** : graphiques de suivi du patient.
    - **💬 Chatbot** : posez vos questions en mode médecin ou patient.
 
-Le dépôt contient des fichiers d'exemple pour tester l'application : `consultation.mp3` et `dossier_medical 2.pdf`.
+Le dépôt contient des fichiers d'exemple pour tester l'application : `consultation.mp3` et `dossier_medical_exemple.pdf`.
 
 <!-- Ajoutez des captures d'écran ici, par exemple :
 ![Onglet Analyse](docs/capture_analyse.png)
